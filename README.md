@@ -6,7 +6,7 @@
 
 - игра Крестики-нолики: `tic_tac_toe.py` 
 
-- игра 2048: `[link](https://github.com/ivan-varyukhin/2048) (https://github.com/ivan-varyukhin/2048)]`
+- игра 2048: `[https://github.com/ivan-varyukhin/2048](https://github.com/ivan-varyukhin/2048)`
 
 - игра Змейка: `в разработке`
 
