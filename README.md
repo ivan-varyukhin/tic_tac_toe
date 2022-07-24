@@ -8,8 +8,7 @@
 
 - игра 2048: [https://github.com/ivan-varyukhin/2048](https://github.com/ivan-varyukhin/2048)
 
-- игра Змейка: `в разработке`
-
+- игра Змейка: [https://github.com/ivan-varyukhin/Snake](https://github.com/ivan-varyukhin/Snake)
 
 ## Технологии
 - Python 3.7.0
